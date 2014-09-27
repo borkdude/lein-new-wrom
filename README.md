@@ -1,4 +1,4 @@
-# wrom
+# lein new wrom
 
 Webjars + Ring + Om Template.
 
